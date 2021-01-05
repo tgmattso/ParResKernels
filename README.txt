@@ -1,3 +1,12 @@
+Note:  This is the original Parallel Reserach Kernels Repository.
+
+The project is now hosted at:  
+
+      https://github.com/ParRes/Kernels
+
+
+
+
 Copyright (c) 2013, Intel Corporation
 
 Redistribution and use in source and binary forms, with or without 
